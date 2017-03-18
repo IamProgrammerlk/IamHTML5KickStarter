@@ -1,0 +1,37 @@
+/*
+** File Name :: IamMainStyles.css
+**   Project :: IamHTML5KickStarter
+**   Version :: 17.03.18.12
+**   License :: MIT License
+** Home Page :: https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html 
+**    Author :: IamProgrammerlk
+**     Email :: IamProgrammerlk@gmail.com
+**   Website :: https://iamprogrammerlk.blogspot.com
+**   Twitter :: https://twitter.com/IamProgrammerlk
+**  Facebook :: https://facebook.com/IamProgrammerlk
+**    GitHub :: https://github.com/IamProgrammerlk
+*/
+
+main{
+height: 600px;
+}
+
+
+.IamErrorMsg{
+	width: 100%;
+	margin: 0 auto;
+	color: rgb(189, 24, 20);
+	text-align: center;
+	vertical-align: middle;
+	background-color: rgb(255, 123, 123);
+	line-height: 1.5em;
+	border-bottom: 1px rgb(189, 24, 20) solid;
+	display: block;
+	padding: 2em 0;
+}
+
+.IamErrorMsg a {
+	text-decoration: none;
+	color: rgb(189, 24, 20);
+	font-weight: bold;
+ }
