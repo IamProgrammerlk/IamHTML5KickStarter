@@ -1,9 +1,11 @@
 # IamHTML5KickStarter
 > A basic HTML 5 Template to get started with proper HTML 5 web sites. It’s a code base from which things are built with only the necessary and relevant. 'IamHTML5KickStarter' helps you build fast, robust, and adaptable web apps or sites.
 
-## Read More
-> https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html
+## Demo Page
+> <a href="https://IamProgrammerlk.github.io/IamHTML5KickStarter">IamHTML5KickStarter DEMO PAGE</a>
 
+## Read More
+> <a href="https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html">IamHTML5KickStarter HOME PAGE</a> 
 
 ## Create with
 
