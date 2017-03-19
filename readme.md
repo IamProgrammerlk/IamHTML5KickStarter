@@ -3,14 +3,17 @@
 
 ## <a href="https://IamProgrammerlk.github.io/IamHTML5KickStarter">DEMO PAGE</a>
 
-## Read More <a href="https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html">HOME PAGE</a> 
+## Read More 
+<a href="https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html">HOME PAGE</a> 
 
 
 ## Create with
 
-* [Normalize.css](https://github.com/necolas/normalize.css) > A modern, HTML5-ready alternative to CSS resets.
+*## [Normalize.css](https://github.com/necolas/normalize.css) 
+> A modern, HTML5-ready alternative to CSS resets.
 
-* [Apache Server Configs](https://github.com/h5bp/server-configs-apache/) > Apache Server Configs is a collection of boilerplate configurations that can help your server improve the web site's performance and security, while also ensuring that resources are served with the correct content-type and are accessible, if needed, even cross-domain.
+* [Apache Server Configs](https://github.com/h5bp/server-configs-apache/) 
+> Apache Server Configs is a collection of boilerplate configurations that can help your server improve the web site's performance and security, while also ensuring that resources are served with the correct content-type and are accessible, if needed, even cross-domain.
 
 
 
