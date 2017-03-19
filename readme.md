@@ -8,9 +8,10 @@
 
 ## Create with
 
-##* [Normalize.css]()
+* [Normalize.css](https://github.com/necolas/normalize.css)
 > A modern, HTML5-ready alternative to CSS resets.
-##* [Apache Server Configs](https://github.com/h5bp/server-configs-apache/)
+
+* [Apache Server Configs](https://github.com/h5bp/server-configs-apache/)
 > Apache Server Configs is a collection of boilerplate configurations that can help your server improve the web site's performance and security, while also ensuring that resources are served with the correct content-type and are accessible, if needed, even cross-domain.
 
 
