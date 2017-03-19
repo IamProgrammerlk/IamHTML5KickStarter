@@ -5,9 +5,15 @@
 
 ## Read More <a href="https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html">HOME PAGE</a> 
 
+
 ## Create with
 
-* Normalize.css - A modern, HTML5-ready alternative to CSS resets.
+### [Normalize.css]()
+* A modern, HTML5-ready alternative to CSS resets.
+### [Apache Server Configs](https://github.com/h5bp/server-configs-apache/)(important :: using .htaccess files slows down Apache!)
+* Apache Server Configs is a collection of boilerplate configurations that can help your server improve the web site's performance and security, while also ensuring that resources are served with the correct content-type and are accessible, if needed, even cross-domain.
+
+
 # Documentation
 * Coming soon..
 ## Acknowledgements
@@ -16,6 +22,6 @@
 
 IamHTML5KickStarter is a project by <a href="https://IamProgrammerlk.blogspot.com">IamProgrammerlk</a>.
 
-# Copyright and license
+# Copyright and License
 
-Code and documentation copyright 2011-2017 the Bootstrap Authors and Twitter, Inc. Code released under the MIT License. 
+Code released under the [MIT license](license.txt).
