@@ -1,6 +1,6 @@
 # [IamHTML5KickStarter](https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html)
 
-<a href="https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html"><img src="https://github.com/IamProgrammerlk/IamHTML5KickStarter/IamPublic/IamFavicon-256x256.png" alt="IamHTML5KickStarter Logo" width="100" height="100" align="right"></a>
+<a href="https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html"><img src="https://github.com/IamProgrammerlk/IamHTML5KickStarter/blob/master/IamPublic/IamFavicon-256x256.png" alt="IamHTML5KickStarter Logo" width="100" height="100" align="right"></a>
   
 > A basic HTML 5 Template to get started with proper HTML 5 web sites. It’s a code base from which things are built with only the necessary and relevant. '__IamHTML5KickStarter__' helps you build fast, robust, and adaptable web apps or sites.
 
