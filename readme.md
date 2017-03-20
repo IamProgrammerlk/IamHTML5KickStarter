@@ -4,6 +4,10 @@
   
 > A basic HTML 5 Template to get started with proper HTML 5 web sites. It’s a code base from which things are built with only the necessary and relevant. '__IamHTML5KickStarter__' helps you build fast, robust, and adaptable web apps or sites.
 
+[![npm][npm-image]][npm-url] 
+[![license][license-image]][license-url]
+[![changelog][changelog-image]][changelog-url]
+[![gitter][gitter-image]][gitter-url]
 
 ## Built With
 
