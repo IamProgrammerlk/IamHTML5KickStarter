@@ -10,6 +10,53 @@
 * [Apache Server Configs](https://github.com/h5bp/server-configs-apache/) - Apache Server Configs is a collection of boilerplate configurations that can help your server improve the web site's performance and security, while also ensuring that resources are served with the correct content-type and are accessible, if needed, even cross-domain.
 
 
+## Basic structure
+
+A basic __IamHTML5KickStarter__ initially looks something like this:
+
+```
+IamHTML5KickStarter
+├── IamPrivate
+└── IamPublic
+	├── IamAssets
+	│	├── IamCSS
+	│	│	└── 17.03.01
+	│	│		├── IamMainStylesheet.css
+	│	│		├── IamMediaScreen481.css
+	│	│		├── IamMediaScreen961.css
+	│	│		├── IamMediaScreen1921.css
+	│	│		└── IamMediaScreen3841.css
+	│	├── IamImage
+	│	│	└── 17.03.01
+	│	│		├── IamHTML5KickStarter-Icon-1024x1024.png
+	│	│		└── IamHTML5KickStarter-Logo-1024x1024.png
+	│	├── IamJavascript
+	│	│	└── 17.03.01
+	│	│		└── IamMainJavascript.js
+	│	└── IamVendor
+	│		├── html5shiv
+	│		│   └── 3.7.3
+	│		│		├── html5shiv.js
+	│		│		├── html5shiv.min.js
+	│		│		├── html5shiv-printshiv.js
+	│		│		└── html5shiv-printshiv.min.js
+	│		└── normalize.css
+	│			└── 5.0.0
+	│				└── normalize.css
+	├── IamContents
+	├── IamErrorPages
+	│	├── IamErrorPage401.html
+	│	├── IamErrorPage403.html
+	│	├── IamErrorPage404.html
+	│	└── IamErrorPage500.html
+	├── .htaccess
+	├── IamFavicon-32x32.ico
+	├── IamFavicon-256x256.png
+	├── index.html
+	└── robots.txt
+```
+
+
 ## Bugs and feature requests
 
 Have a bug or a feature request? [Please first read the issue guidelines](contributing.md) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/IamProgrammerlk/IamHTML5KickStarter/issues/new).
