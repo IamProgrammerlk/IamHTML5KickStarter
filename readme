@@ -7,9 +7,9 @@
 <a href="https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html">HOME PAGE</a> 
 
 
-## Create with
+## Built With
 
-*## [Normalize.css](https://github.com/necolas/normalize.css) 
+* [Normalize.css](https://github.com/necolas/normalize.css) 
 > A modern, HTML5-ready alternative to CSS resets.
 
 * [Apache Server Configs](https://github.com/h5bp/server-configs-apache/) 
@@ -21,10 +21,13 @@
 * Coming soon..
 ## Acknowledgements
 
-# Creators
+# Author
 
 IamHTML5KickStarter is a project by <a href="https://IamProgrammerlk.blogspot.com">IamProgrammerlk</a>.
 
 # Copyright and License
 
-Code released under the [MIT license](license.txt).
+Code released under the [MIT license](license.txt) - see the LICENSE.md file for details.
+
+[![Build Status](https://travis-ci.org/h5bp/server-configs-apache.svg)](https://travis-ci.org/h5bp/server-configs-apache)
+[![devDependency Status](https://david-dm.org/h5bp/server-configs-apache/dev-status.svg)](https://david-dm.org/h5bp/server-configs-apache#info=devDependencies)
