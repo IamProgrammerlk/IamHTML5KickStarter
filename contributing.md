@@ -72,4 +72,4 @@ Good pull requests—patches, improvements, new features—are a fantastic help.
 ## License
 
 By contributing your code, you agree to license your contribution under the [MIT License](license.md). 
-[IamHTML5KickStarter](https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html) released under the [MIT license](license.md) - see the [MIT license.md](license.md) file for details.
+[IamHTML5KickStarter](https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html) released under the [MIT license](license.md) - see the [license.md](license.md) file for details.
