@@ -12,10 +12,63 @@
 **    GitHub :: https://github.com/IamProgrammerlk
 */
 
-main{
-height: 600px;
+body 
+{
+	padding: 0;
+	margin: 0;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.2;
+	color: #606c71; 
 }
 
+header
+{
+	color: #fff;
+	text-align: center;
+	background-color: #00A1E0;
+	background-image: linear-gradient(120deg, #00A1E0, #00A1E0); 
+	margin: 0 0;
+}
+	
+header > h1
+{
+	margin: 0 0;
+	padding: 2em 1em 1em 1em;
+}
+	
+header > h3
+{
+	margin: 0 0;
+	padding: 1em 2em 1em 1em;
+	opacity: 0.7; 
+}
+
+article > h2{
+	margin: 0 0;
+	padding: 1em 2em;
+	font-weight: normal;
+	color: #159957; 
+}
+
+article > section{
+	padding: 1em;
+	margin: 0 2em 2em 2em;
+	font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
+	color: #567482;
+	word-wrap: normal;
+	background-color: #fefefe;
+	border: solid 1px #dce6f0;
+	border-radius: 0.3rem; 
+}
+
+article > section > h2{
+	color: #9b9b9b;
+}
+
+article > section > p{
+	color: #a8a8a8;
+}
 
 .IamErrorMsg{
 	width: 100%;
