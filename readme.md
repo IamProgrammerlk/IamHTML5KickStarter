@@ -4,11 +4,6 @@
   
 > A basic HTML 5 Template to get started with proper HTML 5 web sites. It’s a code base from which things are built with only the necessary and relevant. '__IamHTML5KickStarter__' helps you build fast, robust, and adaptable web apps or sites.
 
-[![npm][npm-image]][npm-url] 
-[![license][license-image]][license-url]
-[![changelog][changelog-image]][changelog-url]
-[![gitter][gitter-image]][gitter-url]
-
 ## Built With
 
 * [Normalize.css](https://github.com/necolas/normalize.css) - A modern, HTML5-ready alternative to CSS resets.
@@ -31,10 +26,8 @@ Anyone and everyone is welcome to [contribute](https://github.com/IamProgrammerl
 
 # Author
 
-[IamHTML5KickStarter](https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html) is a project by [IamProgrammerlk](https://IamProgrammerlk.blogspot.com).
-* [Twitter](https://twitter.com/IamProgrammerlk)
-* [Facebook](https://facebook.com/IamProgrammerlk)
-* [GitHub](https://github.com/IamProgrammerlk)
+[IamHTML5KickStarter](https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html) is a project by [IamProgrammerlk](IamProgrammerlk@gmail.com).
+* [Blogger](https://IamProgrammerlk.blogspot.com) - [Twitter](https://twitter.com/IamProgrammerlk) - [Facebook](https://facebook.com/IamProgrammerlk) - [GitHub](https://github.com/IamProgrammerlk)
 
 
 # Copyright and License
