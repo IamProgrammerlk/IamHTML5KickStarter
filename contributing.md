@@ -17,7 +17,7 @@ The [issue tracker](https://github.com/IamProgrammerlk/IamHTML5KickStarter/issue
 
 * Please **DO NOT** post comments consisting solely of "+1" or ":thumbsup:". Use [GitHub's "reactions" feature](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments) instead. We reserve the right to delete comments which violate this rule.
 
-* Please **DO NOT** open issues or pull requests regarding the code in [`Normalize`](https://github.com/necolas/normalize.css) or  [Apache Server Configs](https://github.com/h5bp/server-configs-apache/)(open them in their respective repositories).
+* Please **DO NOT** open issues or pull requests regarding the code in [Normalize.css](https://github.com/necolas/normalize.css) or  [Apache Server Configs](https://github.com/h5bp/server-configs-apache/) (open them in their respective repositories).
 
   
 ## Bug reports
@@ -71,5 +71,5 @@ Good pull requests—patches, improvements, new features—are a fantastic help.
 
 ## License
 
-By contributing your code, you agree to license your contribution under the [MIT License](license.md).
-[IamHTML5KickStarter](https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html) released under the [MIT license](license.md) - see the LICENSE.md file for details.
+By contributing your code, you agree to license your contribution under the [MIT License](license.md). 
+[IamHTML5KickStarter](https://iamprogrammerlk.blogspot.com/p/iamhtml5kickstarter.html) released under the [MIT license](license.md) - see the [MIT license.md](license.md) file for details.
