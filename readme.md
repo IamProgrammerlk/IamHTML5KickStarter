@@ -35,7 +35,7 @@ IamHTML5KickStarter
 	│	│		└── IamMainJavascript.js
 	│	└── IamVendor
 	│		├── html5shiv
-	│		│   └── 3.7.3
+	│		│	└── 3.7.3
 	│		│		├── html5shiv.js
 	│		│		├── html5shiv.min.js
 	│		│		├── html5shiv-printshiv.js
